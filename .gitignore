@@ -66,3 +66,6 @@ node_modules/
 # ArchLinux sources and binaries
 packages/archlinux/pkg/
 packages/archlinux/src/
+
+# Production nix-shell
+shell.nix
